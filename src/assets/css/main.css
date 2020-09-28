@@ -1,0 +1,10 @@
+.profile-img {
+    height: 1.5em;
+    width: 1.5em;
+}
+
+
+.title {
+    border: none;
+    outline: none !important;
+}
